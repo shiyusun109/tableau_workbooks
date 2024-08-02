@@ -1,5 +1,5 @@
 # tableau_workbooks
 
-This is the repository for my Tableau workbooks.
+Please check my Tableau projects using the link below!
 
 https://public.tableau.com/app/profile/shiyusun1/vizzes
